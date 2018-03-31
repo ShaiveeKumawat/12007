@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Student App</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="array">
+        <item>Aadhar Card</item>
+        <item>Birth Certificate</item>
+        <item>Domicile Certificate</item>
+        <item>10th Certificate</item>
+        <item>12th Certificate</item>
+    </string-array>
+    <string-array name="numbers">
+        <item>Login As Student</item>
+        <item>Login As Parent</item>
+        <item>Login As Faculty</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_parent">Parent</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_teacher">Teacher</string>
+</resources>
